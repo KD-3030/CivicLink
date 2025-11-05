@@ -1,6 +1,22 @@
 {
-  "name": "civiclink-nextjs",
+  "name": "civiclink",
   "version": "0.1.0",
+  "description": "A modern, intelligent civic issue management platform that empowers citizens and municipal administrators",
+  "author": "CivicLink Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KD-3030/nextjs-migration.git"
+  },
+  "keywords": [
+    "civic",
+    "issue-management",
+    "nextjs",
+    "mongodb",
+    "typescript",
+    "municipal",
+    "government"
+  ],
   "private": true,
   "scripts": {
     "dev": "next dev",
